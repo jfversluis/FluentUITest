@@ -1,2 +1,16 @@
 # FluentUITest
- Repro workaround Blazor Hybrid for Fluent UI Components
+
+Test project to show the reproduction for https://fluentui-blazor.net/CodeSetup#blazor-hybrid.
+
+The workaround should not be needed anymore, unfortunately we still do, so this problem does not seem to be (entirely) fixed.
+
+The workaround is right now (commented) in [index.html](wwwroot/index.html).
+
+Running the app without the workaround shows you this
+
+![Screenshot of the running project with the workaround](assets/without-workaround.png)
+
+
+Running the app with the workaround shows you this
+
+![Screenshot of the running project with the workaround](assets/with-workaround.png)
