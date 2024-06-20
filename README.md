@@ -14,3 +14,9 @@ Running the app without the workaround shows you this
 Running the app with the workaround shows you this
 
 ![Screenshot of the running project with the workaround](assets/with-workaround.png)
+
+## Relevant links
+
+* https://github.com/microsoft/fluentui-blazor/issues/404
+* https://github.com/dotnet/maui/issues/15234
+* https://github.com/dotnet/maui/pull/18953
